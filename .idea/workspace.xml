@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f22c53f1-306f-4636-9427-b1fbb4a53f18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/main/BankovyUcet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/main/MethodsForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/main/TDDApproche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie20/TestUlohaC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie21/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie21/UlohaC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie22/AB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie22/ParametrizovanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/auto-service-annotations-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/byte-buddy-1.14.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/checker-qual-3.41.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/error_prone_annotations-2.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/failsafe-3.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/failureaccess-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/guava-33.0.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/j2objc-annotations-2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-api-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-api-events-1.35.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-context-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-exporter-logging-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-extension-incubator-1.35.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-common-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-extension-autoconfigure-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-logs-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-metrics-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-trace-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/lib/opentelemetry-semconv-1.23.1-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-api-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-api-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-chrome-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-chrome-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-chromium-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-chromium-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v120-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v120-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v121-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v121-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v122-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v122-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v85-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-devtools-v85-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-edge-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-edge-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-firefox-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-firefox-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-http-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-http-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-ie-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-ie-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-java-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-java-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-json-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-json-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-manager-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-manager-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-os-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-os-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-remote-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-remote-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-safari-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-safari-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-support-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/resources/selenium-java-4.18.1/selenium-support-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/src/zadanie23/BrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/main/java/sk/itvkurze/metis/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/main/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/main/java/sk/itvkurze/metis/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/main/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/java/sk/itvkurze/metis/zadanie20/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie20/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/java/sk/itvkurze/metis/zadanie20/TestMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie20/TestMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/java/sk/itvkurze/metis/zadanie21/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/src/test/zadanie21/UlohaAB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP_Lyocsa/InteliJ/mavenProjectCMD/target/test-classes/sk/itvkurze/metis/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Selenium" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bmf8Z2bHuGVf7AXoSfCboAzeSu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.A.executor": "Run",
+    "Application.BrowserTest.executor": "Run",
+    "Application.TestUlohaC.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.UlohaAB.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rober/ATP_Lyocsa/ATP_Lyocsa",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\ATP_Lyocsa\ATP_Lyocsa\InteliJ" />
+      <recent name="C:\Users\rober\ATP_Lyocsa" />
+      <recent name="C:\Users\rober\ATP_Lyocsa\ATP_Lyocsa\InteliJ\mavenProjectCMD\src\test\java" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Selenium.src.zadanie23" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BrowserTest">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.itvkurze.metis.zadanie23.A" />
+      <module name="ATP_Lyocsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.itvkurze.metis.zadanie23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.src.BrowserTest" />
+      <module name="ATP_Lyocsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUlohaC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.itvkurze.metis.zadanie20.TestUlohaC" />
+      <module name="ATP_Lyocsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.itvkurze.metis.zadanie20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ATP_Lyocsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ATP_Lyocsa.InteliJ.mavenProjectCMD.src.test.zadanie20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ATP_Lyocsa.InteliJ.mavenProjectCMD.src.test.zadanie20" />
+      <option name="MAIN_CLASS_NAME" value="ATP_Lyocsa.InteliJ.mavenProjectCMD.src.test.zadanie20.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UlohaAB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ATP_Lyocsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ATP_Lyocsa.InteliJ.mavenProjectCMD.src.test.zadanie21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ATP_Lyocsa.InteliJ.mavenProjectCMD.src.test.zadanie21" />
+      <option name="MAIN_CLASS_NAME" value="ATP_Lyocsa.InteliJ.mavenProjectCMD.src.test.zadanie21.UlohaAB" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BrowserTest" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.UlohaAB" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.TestUlohaC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f22c53f1-306f-4636-9427-b1fbb4a53f18" name="Changes" comment="" />
+      <created>1706825017265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706825017265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/org/junit/jupiter/api/condition/JRE.class</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ATP_Lyocsa$BrowserTest.ic" NAME="BrowserTest Coverage Results" MODIFIED="1708948196893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Selenium.src.*</FILTER>
+    </SUITE>
+  </component>
+</project>

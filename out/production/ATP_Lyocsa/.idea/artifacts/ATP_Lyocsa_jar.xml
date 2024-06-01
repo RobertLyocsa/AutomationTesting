@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ATP_Lyocsa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATP_Lyocsa_jar</output-path>
+    <root id="archive" name="ATP_Lyocsa.jar">
+      <element id="module-output" name="ATP_Lyocsa" />
+    </root>
+  </artifact>
+</component>

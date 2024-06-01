@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72351a44-2211-45c3-ac64-6486b55aeb0a" name="Changes" comment="Hello World">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2d5hstX2AJjSEQQ9hQVMpOaAStc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.A (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiStepFormAutomation.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.A.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in TestNG.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.B.xpathTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Abc27 (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Abc27 (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Abc27 (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Abc27.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Abc27.leftPanelTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Abc27.leftPanelTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Abc27.performActions.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Abc27.verifyElements.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AppTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AppTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AppTest.acceptAge.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AppTest.age18.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AppTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AppTest.helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AppTest.overenie3veci.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/rober/ATP_Lyocsa/TestNGZadania/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/rober/AppData/Local/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27 (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27 (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27.acceptAge.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27.performActions (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27.performActions (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27.performActions (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.abc27.performActions.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.b.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaA.clickNaHiddenStepper.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaA.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaA.performActions.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaA.stepperOverovanie.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaB.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaB.logInTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaC.clickNaHiddenStepper.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaC.clickNaPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ulohaC.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rober/ATP_Lyocsa/ATP_Lyocsa&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.A (1)">
+    <configuration name="A (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
+      <module name="TestNG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie30.A" />
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B" />
+      <module name="TestNG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C" />
+      <module name="TestNG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiStepFormAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiStepFormAutomation" />
+      <module name="TestNG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A (1)" />
+        <item itemvalue="Application.C (1)" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.MultiStepFormAutomation" />
+        <item itemvalue="Application.A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72351a44-2211-45c3-ac64-6486b55aeb0a" name="Changes" comment="" />
+      <created>1709304058872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709304058872</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1709497240397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709497240397</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1709497430760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709497430760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1709754474560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709754474560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+  </component>
+</project>
